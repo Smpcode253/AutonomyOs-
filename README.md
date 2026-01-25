@@ -1,3 +1,4 @@
+AutonomyOS — A lightweight, agent-based framework for autonomous marketing systems.
 # AutonomyOS
 
 AutonomyOS is a lightweight, modular framework for building autonomous marketing systems.  
