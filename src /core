@@ -1,0 +1,11 @@
+class AgentBase {
+    constructor(config = {}) {
+        this.config = config;
+    }
+
+    async run(input) {
+        throw new Error("run() must be implemented by subclasses");
+    }
+}
+
+module.exports = AgentBase;
